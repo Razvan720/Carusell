@@ -22,7 +22,7 @@ public class Utilidades {
 		if (ficheros != null) {
 			for (int x = 0; x < ficheros.length; x++) {
 				if (ficheros[x].endsWith(".jpg") || ficheros[x].endsWith(".gif") || ficheros[x].endsWith(".png")) {
-					
+					archivos.add(ficheros[x]);
 				}
 			}
 		}
