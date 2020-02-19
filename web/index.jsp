@@ -13,6 +13,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <a href="carousel.jsp">Ir a la aplicacion</a>
+        <a href="carrusell">Ir a la aplicacion</a>
     </body>
 </html>
